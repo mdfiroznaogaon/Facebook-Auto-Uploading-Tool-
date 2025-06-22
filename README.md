@@ -5,3 +5,4 @@ Classic Uploader: https://drive.google.com/file/d/10f8-AQ9zjhIEtn5kvL_DDFpKF2yme
 
 Tool Username: Rahedin
 Tool Pass : uploader_rahedin
+Tutorial video : https://drive.google.com/file/d/1rDuyT4hgbZ05BYrjpjt5VrR5cNWcLf57/view?usp=drive_link
